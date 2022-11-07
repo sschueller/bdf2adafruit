@@ -43,7 +43,7 @@
 # - Uses FONT name defined in BDF
 # - Outputs working .h file
 # - Added extended comments (ASCII character)
-# - Assumes glyphs 0 to 127 only (hardcoded)
+# - Assumes glyphs 0 to 127 only
 #
 # Stefan Schüller, Oct 2022, https://github.com/sschueller
 #
